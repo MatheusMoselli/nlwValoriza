@@ -15,14 +15,6 @@
   <img src="https://img.shields.io/badge/node-14.17.1-006400?style=flat&logo=node.js" alt="node" />
 </p>
 
-<p align="center">
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
-</p>
-
 ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) and [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable) installed on your computer. From your command line:
