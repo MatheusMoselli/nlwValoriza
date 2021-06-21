@@ -36,7 +36,7 @@ $ npm start
 ## What I've learned
 
 ### Tools 🔧
-<p> Node is a back-end javascript framework. It's async (can recieve many request at one time, it's not necessary to wait one request to end to start another). It's single thread but has a delegate that split to (usually 4) anothers threads. </p>
+<p> Node is a back-end javascript framework. It's async (can recieve many request at once, it's not necessary to wait one request to end to start another). It uses Single Threaded Event Loop Model architecture. </p>
 <p> API is the back-end of an application. It have to be separated to the front-end. The principal part of using an API is the possibility of using the same API to any front-end.</p>
 <p> TypeScript is a typed javascript, only using on develpment ambient to help the programmers. With TypeScript you can say wath is the type of any variabel (string, number, etc).</p>
 <p> Express is a javascript framework usually used to create routes to the project</p>
