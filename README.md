@@ -10,7 +10,7 @@
 <h4 align="center">A project built with <a href="https://rocketseat.com.br/" target="_blank">RocketSeat</a>.</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/npm-6.14.13-green?style=flat&logo=npm" alt="npm version" />
+  <img src="https://img.shields.io/badge/npm-6.14.13-red?style=flat&logo=npm" alt="npm version" />
   <img src="https://img.shields.io/badge/yarn-1.22.5-blue?style=flat&logo=yarn" alt="yarn" />
   <img src="https://img.shields.io/badge/node-14.17.1-006400?style=flat&logo=node.js" alt="node" />
 </p>
