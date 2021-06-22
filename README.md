@@ -15,14 +15,6 @@
   <img src="https://img.shields.io/badge/node-14.17.1-006400?style=flat&logo=node.js" alt="node" />
 </p>
 
-<p align="center">
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
-</p>
-
 ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) and [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable) installed on your computer. From your command line:
@@ -44,7 +36,7 @@ $ npm start
 ## What I've learned
 
 ### Tools 🔧
-<p> Node is a back-end javascript framework. It's async (can recieve many request at one time, it's not necessary to wait one request to end to start another). It's single thread but has a delegate that split to (usually 4) anothers threads. </p>
+<p> Node is a back-end javascript framework. It's async (can recieve many request at once, it's not necessary to wait one request to end to start another). It uses Single Threaded Event Loop Model architecture. </p>
 <p> API is the back-end of an application. It have to be separated to the front-end. The principal part of using an API is the possibility of using the same API to any front-end.</p>
 <p> TypeScript is a typed javascript, only using on develpment ambient to help the programmers. With TypeScript you can say wath is the type of any variabel (string, number, etc).</p>
 <p> Express is a javascript framework usually used to create routes to the project</p>
