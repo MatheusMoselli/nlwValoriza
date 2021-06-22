@@ -1,4 +1,4 @@
-
+ 
 <h1 align="center">
   <br>
   <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="Node.Js" width="200">
@@ -55,6 +55,9 @@ There is 5 principal methods:
   <li>Patch: Change especific information from the database</li>
 </ul>
 
+### Notion 📝
+
+For more anotations, check my [Notion](https://www.notion.so/matheusmoselli/NLW-06-Node-js-bce814b618cd4970ae1407099f27a1f8)
 
 ## Credits
 
